@@ -1,0 +1,36 @@
+/* Clock container */
+.clock {
+  width: 300px;
+  height: 300px;
+  border: 5px solid black;
+  border-radius: 50%;
+  background: url('R.png') no-repeat center/cover;
+  position: relative;
+  margin: auto;
+}
+
+/* Clock hands */
+.hand {
+  width: 50%;
+  background: black;
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  transform-origin: 90%;
+  transform: rotate(90deg);
+  transition: all 0.05s;
+}
+
+/* Specific styles for each hand */
+.hour-hand {
+  height: 7px;
+}
+
+.min-hand {
+  height: 4px;
+}
+
+.second-hand {
+  height: 2px;
+  background: red;
+}
