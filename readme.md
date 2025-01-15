@@ -1,5 +1,5 @@
 # Analog-Clock
-It's an analog clock which shows u the time visually
+It's an analog clock which shows u the real world clock time
 
 # Features
 1. Moving hands in the clock (second hand, min. hand etc.)
@@ -13,4 +13,4 @@ It's an analog clock which shows u the time visually
 3. JavaScript
 
 # Author
-Everything you see here is made by**Leon Huskaj**
+Everything you see here is made by **Leon Huskaj**
