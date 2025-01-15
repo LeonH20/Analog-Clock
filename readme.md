@@ -1,9 +1,9 @@
-<h1>Analog-Clock</h1>
-<p>It's an analog clock which shows u the time visually</p>
+#Analog-Clock
+It's an analog clock which shows u the time visually
 
-<h2>Features</h2>
--moving hands in the clock (second hand, min. hand etc.)<br>
+#Features
+-moving hands in the clock (second hand, min. hand etc.)
 -clock itself is a picture
 
-<h3>Author</h3>
+#Author
 -Leon Huskaj
